@@ -1,7 +1,7 @@
 # Primera version 16/04/2023
 ## ¡Bienvenido al restaurante!
 
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+![](https://github.com/IsseiSenpai/CafeLaurent/blob/main/img/Local.png?raw=true)
 
 Este proyecto se trata de la creación de una página web para una cafeteria que ofrece una variedad de platos y bebidas. El objetivo principal de la página web es presentar de manera atractiva los productos y servicios que ofrece el restaurante, con el fin de atraer a nuevos clientes y fidelizar a los ya existentes.
 
